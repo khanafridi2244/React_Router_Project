@@ -33,17 +33,20 @@ Add more bullets for your custom features.
 
 ---
 
-## Clone the Repository 📂
-
-```bash
-git clone https://github.com/khanafridi2244/React_Router_Project.git
-'
-
 ## License
 
 This project is licensed under the MIT License.  
 
 © 2026 Sikandar Afridi / GitHub: [khanafridi2244](https://github.com/khanafridi2244)
+---
+
+## Clone the Repository 📂
+
+```bash
+git clone https://github.com/khanafridi2244/React_Router_Project.git
+
+
+
 
 
 
