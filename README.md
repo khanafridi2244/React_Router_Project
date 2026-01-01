@@ -4,34 +4,6 @@ A single-page application built with React and React Router for client-side navi
 
 ---
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Demo](#demo)
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Built With](#built-with)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
-  - [Building for Production](#building-for-production)
-- [Routing](#routing)
-- [State Management](#state-management)
-- [Available Scripts](#available-scripts)
-- [Testing](#testing)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [Roadmap](#roadmap)
-- [Known Issues](#known-issues)
-- [FAQ](#faq)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## About the Project
 
 This project demonstrates a **React** single-page application that uses React Router to manage multiple pages and nested routes on the client side. [web:8][web:15]  
@@ -60,27 +32,18 @@ Add more bullets for your custom features.
 - Optional: State management (Redux, Context API, etc.) [web:13]
 
 ---
-## Installation
 
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the project folder
-cd your-repo-name
-
-# Install dependencies
-npm install
-# or
-yarn
+## Clone the repository
+git clone https://github.com/khanafridi2244/React_Router_Project.git
 
 ---
-## Running the App
 
-# Development
-npm run dev   # Vite
-# or
-npm start     # Create React App
-# or your command
+## License
 
----
+This project is licensed under the MIT License.  
+
+© 2026 Sikandar Afridi / GitHub: [khanafridi2244](https://github.com/khanafridi2244)
+
+
+
 
